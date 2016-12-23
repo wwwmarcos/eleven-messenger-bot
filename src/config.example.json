@@ -1,5 +1,5 @@
 {
   "FACEBOOK_PAGE_ACCESS_TOKEN": "token",
   "PORT": 3000,
-	"FACEBOOK_RETURN_URL": "https://graph.facebook.com/v2.6/me/messages"
+  "FACEBOOK_RETURN_URL": "https://graph.facebook.com/v2.6/me/messages"
 }
